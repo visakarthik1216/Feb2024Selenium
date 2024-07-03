@@ -14,8 +14,8 @@ import io.qameta.allure.SeverityLevel;
 
 public class LoginPageTest extends BaseTest {
 	
-	@Description("verifying login page Title")
-	@Owner("visa")
+	@Description("verifying login page Title test cahanges")
+	@Owner("visa karthik")
 	@Severity(SeverityLevel.MINOR)
 	@Test(priority=1)
 	public void loginPageTitleTest()

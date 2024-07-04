@@ -12,4 +12,9 @@ public class Login {
 
 		
 	}
+	
+	public void doLogin()
+	{
+		System.out.println("visa----login");
+	}
 }

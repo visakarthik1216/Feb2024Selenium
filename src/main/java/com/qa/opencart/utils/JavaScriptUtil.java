@@ -123,7 +123,7 @@ public class JavaScriptUtil {
 	
 	public void flash(WebElement element) {
 		String bgcolor = element.getCssValue("backgroundColor");//grey-white
-		for (int i = 0; i <5; i++) {
+		for (int i = 0; i <2; i++) {
 			changeColor("rgb(0,200,0)", element);// green
 			changeColor(bgcolor, element);// greywghite
 		}

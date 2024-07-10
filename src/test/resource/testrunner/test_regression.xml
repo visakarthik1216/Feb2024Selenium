@@ -23,7 +23,7 @@
   </classes>
  </test>
  
- <!--<test name="Account Page Test">
+ <test name="Account Page Test">
 <parameter name="browser" value="edge" />	 
   <classes>
    <class name="com.qa.opencart.tests.AccountsPageTest" />
@@ -38,12 +38,12 @@
   </classes>
  </test>
  
- <test name="registration Page Test">
+<test name="registration Page Test">
 <parameter name="browser" value="edge" />	 
   <classes>
    <class name="com.qa.opencart.tests.RegistrationPageTest" />
   </classes>
- </test>-->
+ </test>
  
  
  
